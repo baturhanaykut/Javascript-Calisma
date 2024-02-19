@@ -1,7 +1,7 @@
 - Javascript Data Tiplerini, (✓)
 - Javascript Koşullu İfadeler ve Döngüleri,  (✓)
 - Javascript Object Yapısını,  (✓)
-- Javascript DOM (Document Object Model)'i,
+- Javascript DOM (Document Object Model)
 - Javascript Form Yapısını,
 - Javascript Korona Günlerinde Evdenmi Ofisten mi Çalışmalı Anketi Projesi
 - Javascript Matematik Quizi Projesini
