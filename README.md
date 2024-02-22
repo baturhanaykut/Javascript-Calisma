@@ -2,9 +2,9 @@
 - Javascript Koşullu İfadeler ve Döngüleri,  (✓)
 - Javascript Object Yapısını,  (✓)
 - Javascript DOM (Document Object Model) (✓)
-- Javascript Form Yapısını,
-- Javascript Korona Günlerinde Evdenmi Ofisten mi Çalışmalı Anketi Projesi
-- Javascript Matematik Quizi Projesini
+- Javascript Form Yapısını, (✓)
+- Javascript Korona Günlerinde Evdenmi Ofisten mi Çalışmalı Anketi Projesi (✓)
+- Javascript Matematik Quizi Projesini (✓)
 - Javascriptte En Sık Kullanılan Metodları
 - Javascript Async Programlamayı
 - Javascript LocalStorage Kullanımını
