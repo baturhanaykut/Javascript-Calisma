@@ -5,7 +5,8 @@
 - Javascript Form Yapısını, (✓)
 - Javascript Korona Günlerinde Evdenmi Ofisten mi Çalışmalı Anketi Projesi (✓)
 - Javascript Matematik Quizi Projesini (✓)
-- Javascriptte En Sık Kullanılan Metodları(✓)
+- Javascriptte En Sık Kullanılan Metodları (✓)
+- Javascriptte Tarih Saat Kontrolleri (✓)
 - Javascript Async Programlamayı
 - Javascript LocalStorage Kullanımını
 - Javascript Object Oriented Programming Yapısı
