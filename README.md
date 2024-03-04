@@ -7,6 +7,7 @@
 - Javascript Matematik Quizi Projesini (✓)
 - Javascriptte En Sık Kullanılan Metodları (✓)
 - Javascriptte Tarih Saat Kontrolleri (✓)
+- Javascriptte Yapılacak Listesi Yapımı (✓)
 - Javascript Async Programlamayı
 - Javascript LocalStorage Kullanımını
 - Javascript Object Oriented Programming Yapısı
