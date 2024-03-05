@@ -10,7 +10,7 @@
 - Javascriptte Yapılacak Listesi Yapımı (✓)
 - Javascript Async Programlama(✓)
 - Javascript LocalStorage Kullanımını(✓)
-- Javascript Object Oriented Programming Yapısı
+- Javascript Object Oriented Programming Yapısı(✓)
 - Javascript Slider Projesi
 - Javascript Loading Bar Projesi
 - Javascript Karakter Sayacı Projesi
