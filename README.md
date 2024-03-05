@@ -9,7 +9,7 @@
 - Javascriptte Tarih Saat Kontrolleri (✓)
 - Javascriptte Yapılacak Listesi Yapımı (✓)
 - Javascript Async Programlama(✓)
-- Javascript LocalStorage Kullanımını
+- Javascript LocalStorage Kullanımını(✓)
 - Javascript Object Oriented Programming Yapısı
 - Javascript Slider Projesi
 - Javascript Loading Bar Projesi
