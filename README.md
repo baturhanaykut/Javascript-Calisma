@@ -8,7 +8,7 @@
 - Javascriptte En Sık Kullanılan Metodları (✓)
 - Javascriptte Tarih Saat Kontrolleri (✓)
 - Javascriptte Yapılacak Listesi Yapımı (✓)
-- Javascript Async Programlamayı
+- Javascript Async Programlama(✓)
 - Javascript LocalStorage Kullanımını
 - Javascript Object Oriented Programming Yapısı
 - Javascript Slider Projesi
