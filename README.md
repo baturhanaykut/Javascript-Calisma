@@ -11,7 +11,7 @@
 - Javascript Async Programlama(✓)
 - Javascript LocalStorage Kullanımını(✓)
 - Javascript Object Oriented Programming Yapısı(✓)
-- Javascript Slider Projesi
+- Javascript Slider Projesi (✓)
 - Javascript Loading Bar Projesi
 - Javascript Karakter Sayacı Projesi
 - Javascript Sidebar Projesi
