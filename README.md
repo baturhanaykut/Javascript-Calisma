@@ -15,7 +15,7 @@
 - Javascript Loading Bar Projesi (✓)
 - Javascript Karakter Sayacı Projesi (✓)
 - Javascript Sidebar Projesi (✓)
-- Javascript Döviz Çevirici Projesi
+- Javascript Döviz Çevirici Projesi (✓)
 - Javascript Accordion Projesi
 - Javascript Sıcaklık Değerlerini Celsius Fahrenheit ve Kelvin'e Dönüştürme Projesi
 - Javascript İngilizceden İngilizceye Sözlük Projesi
