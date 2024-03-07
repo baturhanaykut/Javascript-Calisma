@@ -17,7 +17,7 @@
 - Javascript Sidebar Projesi (✓)
 - Javascript Döviz Çevirici Projesi (✓)
 - Javascript Accordion Projesi (✓)
-- Javascript Sıcaklık Değerlerini Celsius Fahrenheit ve Kelvin'e Dönüştürme Projesi
+- Javascript Sıcaklık Değerlerini Celsius Fahrenheit ve Kelvin'e Dönüştürme Projesi (✓)
 - Javascript İngilizceden İngilizceye Sözlük Projesi
 - Javascript Rastgele Şaka Üretme Projesi
 - Javascript Video Popup Projesi
