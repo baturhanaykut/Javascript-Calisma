@@ -23,7 +23,7 @@
 - Javascript Video Popup Projesi (✓)
 - Javascript Rastgele Şifre Üretme Projesi (✓)
 - Javascript Resimler Projesi (✓)
-- Javascript Hava Durumu Projesi
+- Javascript Hava Durumu Projesi (✓)
 - Javascript Hesap Makinesi Projesi
 - Javascript Animasyonlu Menü Projesi
 - Javascript Form Projesi 
