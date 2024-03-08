@@ -21,7 +21,7 @@
 - Javascript İngilizceden İngilizceye Sözlük Projesi (✓)
 - Javascript Rastgele Şaka Üretme Projesi (✓)
 - Javascript Video Popup Projesi (✓)
-- Javascript Rastgele Şifre Üretme Projesi
+- Javascript Rastgele Şifre Üretme Projesi (✓)
 - Javascript Resimler Projesi
 - Javascript Hava Durumu Projesi
 - Javascript Hesap Makinesi Projesi
