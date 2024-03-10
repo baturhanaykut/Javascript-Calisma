@@ -25,7 +25,7 @@
 - Javascript Resimler Projesi (✓)
 - Javascript Hava Durumu Projesi (✓)
 - Javascript Hesap Makinesi Projesi (✓)
-- Javascript Animasyonlu Menü Projesi
+- Javascript Animasyonlu Menü Projesi (✓)
 - Javascript Form Projesi 
 - Javascript Etkinliğe Ne Kadar Var Projesi
 - Javascript Taş Kağıt Makas Oyunu Projesi
