@@ -28,7 +28,7 @@
 - Javascript Animasyonlu Menü Projesi (✓)
 - Javascript Form Projesi (✓)
 - Javascript Etkinliğe Ne Kadar Var Projesi (✓)
-- Javascript Taş Kağıt Makas Oyunu Projesi
+- Javascript Taş Kağıt Makas Oyunu Projesi (✓)
 - Javascript Music Player Projesi
 - Javascript Backlink Projesi
 - Javascript Jira Projesi
