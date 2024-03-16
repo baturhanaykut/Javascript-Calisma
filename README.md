@@ -31,4 +31,4 @@
 - Javascript Taş Kağıt Makas Oyunu Projesi (✓)
 - Javascript Music Player Projesi (✓)
 - Javascript Backlink Projesi (✓)  
-- Javascript Jira Projesi
+- Javascript Jira Projesi (✓) 
